@@ -59,6 +59,13 @@
     <fragment
         android:id="@+id/aboutFragment"
         android:name="com.example.android.navigation.AboutFragment"
-        android:label="fragment_about"
+        android:label="title_fragment_about"
         tools:layout="@layout/fragment_about" />
+
+
+    <fragment
+        android:id="@+id/licenseFragment"
+        android:name="com.example.android.navigation.LicenseFragment"
+        android:label="title_fragment_license"
+        tools:layout="@layout/fragment_license" />
 </navigation>

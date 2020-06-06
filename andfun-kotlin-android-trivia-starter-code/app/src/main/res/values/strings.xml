@@ -22,6 +22,27 @@
     <string name="select_an_avatar">Select an Avatar</string>
     <string name="android_trivia">Android Trivia</string>
     <string name="about_text">Android Trivia will help remind you of important concepts you have learned and will learn in Android development.\n\nConsider modifying the questions and graphics to make this game your own!</string>
+    <string name="license">License</string>
+
+    <string name="license_text">~ Copyright 2018, The Android Open Source Project ~
+        \n
+        \n
+  \n
+        Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+  \n
+  \n
+        http://www.apache.org/licenses/LICENSE-2.0
+  \n
+  \n
+        Unless required by applicable law or agreed to in writing, software
+  \n distributed under the License is distributed on an \"AS IS BASIS\",
+  \n WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        \n
+  \n See the License for the specific language governing permissions and
+  \n limitations under the License.</string>
+
     <string name="rules_text">Select the answer from the options given. Each time you get an answer correct, you advance to the next question.\n\nIf you get the answer wrong, your game ends! You can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
     <string name="rules">Rules</string>
     <string name="about">About</string>
